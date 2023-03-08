@@ -1,0 +1,9 @@
+focus on
+git init
+git add 
+git commit
+git checkout / git checkout -b <new_brach_name>
+git push origin <branch>
+
+git stash
+git cherry-pick
